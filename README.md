@@ -1,4 +1,4 @@
-# Flexible Calculator
+# Calculator
 
 ## Overview
 
@@ -23,7 +23,7 @@ This is a flexible, extensible calculator built in Java that supports basic arit
 
 ```bash
 git clone <your-repo-url >
-cd flexible-calculator
+cd calculator
 mvn clean install
 ```
 

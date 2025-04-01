@@ -1,0 +1,8 @@
+calculator/DivideOperation.class
+calculator/SubtractOperation.class
+calculator/OperationRegistry.class
+calculator/OperationStrategy.class
+calculator/MultiplyOperation.class
+calculator/Calculator.class
+calculator/Operation.class
+calculator/AddOperation.class
